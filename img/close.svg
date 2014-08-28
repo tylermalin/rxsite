@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 35</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-35" sketch:type="MSArtboardGroup" fill="#333333">
+            <g id="Oval-2-+-Triangle-6-+-Triangle-8" sketch:type="MSLayerGroup" transform="translate(1.000000, 0.992158)">
+                <g id="Oval-2-+-Triangle-6" transform="translate(-0.250000, -0.318388)" sketch:type="MSShapeGroup">
+                    <path d="M52.5,26.5 C52.5,11.871594 40.7546995,0 26.25,0 C11.7453005,0 0,11.871594 0,26.5 C0,41.128406 11.7453005,53 26.25,53 C40.7546995,53 52.5,41.128406 52.5,26.5 Z M6,26.5 C6,15.1710227 15.0734587,6 26.25,6 C37.4265413,6 46.5,15.1710227 46.5,26.5 C46.5,37.8289773 37.4265413,47 26.25,47 C15.0734587,47 6,37.8289773 6,26.5 Z" id="Oval-2"></path>
+                    <path d="M30.970501,33.2212192 L32.0254742,34.2875361 L34.158108,32.1775899 L33.1031349,31.111273 L21.5877708,19.4720878 L20.5327977,18.4057709 L18.4001638,20.5157171 L19.455137,21.582034 L30.970501,33.2212192 Z" id="Line"></path>
+                    <path d="M19.3609577,31.0377854 L18.2946408,32.0927585 L20.404587,34.2253923 L21.470904,33.1704192 L33.1100892,21.6550551 L34.1764061,20.600082 L32.0664599,18.4674482 L31.000143,19.5224213 L19.3609577,31.0377854 Z" id="Line-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
